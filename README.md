@@ -14,7 +14,7 @@ content/
 ```
 
 ## Usage
-This repository is intended as an example, and probably includes more features that your website needs. Use it as a reference to build your own CMS configuration.
+This repository is intended as an example, and probably includes more features than your website needs. Use it as a reference to build your own CMS configuration.
 
 To integrate this into your project, copy the `content/admin` folder into your [ZeroPoint Starter](https://getzeropoint.com) project's `content` directory. Then, customize the templates and configuration files as needed.
 
